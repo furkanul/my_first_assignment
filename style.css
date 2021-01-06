@@ -1,0 +1,164 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 40px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+
+.menu{
+   padding: 30px;
+   overflow: hidden;
+   text-decoration: none;
+}
+
+.menu ul{
+    width: auto;
+    float: right;
+    margin-top: 10px;
+    text-decoration: none;
+    
+}
+
+.menu ul li{
+    display:inline-block;
+    float: left;
+   text-decoration: none;
+   padding-left: 30px;
+   margin-right: 40px;
+   
+}
+.menu a {
+    text-decoration: none;
+    font-size: 30px;
+    
+}
+
+.f_min{
+    color: tomato;
+}
+.half_width h1{
+    color: rgb(126, 121, 120);
+}
+.top_part{
+    overflow: hidden;
+    padding: 30px;
+}
+.half_width{
+    width: 40%;
+    height: 780px;
+    float: left;
+    margin-left: 5%;
+}
+.half_width p{
+    width: 80%;
+    text-size-adjust:auto;
+}
+.half_width img{
+    width: 100%;
+}
+.Hire_me{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color:white;
+    font-weight: bolder;
+    background-image: linear-gradient(45deg,rgb(255, 0, 0), rgb(255, 208, 0));
+}
+.btn {
+    text-decoration: none;
+    background-color:orange;
+    background-image: linear-gradient(45deg,rgb(255, 0, 0), rgb(255, 208, 0));
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    font-size: 20px;
+    border-radius: 20px;
+  }
+  .experience{
+      padding-top: 30px;
+      background-color:rgba(195, 195, 195, 0.192);
+      height: 800px;
+      padding-left: 80px;
+      
+  }
+  #latest{
+      color: rgba(244, 96, 96, 1);
+  }
+  .experience h1{
+      font-weight: 700;
+      word-spacing: 10px;
+      color: rgba(54, 57, 88, 1);
+  }
+  .box{
+      width: 25%;
+      height: 450px;
+      float: left;
+      padding-left: 50px;
+      margin: 30px;
+      background-color: whitesmoke;
+      box-shadow: 10px 20px 40px rgb(168, 166, 166);
+      border-radius: 30px;
+  }
+  .box img{
+      width: 80%;
+      margin-top: 20px;
+      padding-left: 10px;
+  }
+  .experience h1{
+      text-align: center;
+      
+  }
+  .box p{
+      width: 80%;
+  }
+.footer{
+    background-image: url(images/Group_33094_1.png);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+}
+
+.inquary{
+    float: left;
+    padding-left: 26%;
+    padding-top: 250px;
+    text-decoration-line: none;
+}
+.footer h1{
+    margin-top: -20px;
+    color: white;
+
+}
+
+
+.social{
+    
+
+}
+.connected{
+    text-align: center;
+    
+    height: 80px;
+
+}
+.connected h2{
+    color: rgba(54, 57, 88, 1);
+    
+}
+.connected h5{
+    color:rgba(105, 104, 113, 1);
+}
+.icon{
+    height: 40px;
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.icon img{
+    height: 100%;
+}
