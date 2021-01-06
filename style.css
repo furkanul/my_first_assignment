@@ -5,6 +5,7 @@ body{
 h1{
     font-size: 40px;
     font-family: 'Bebas Neue', cursive;
+    word-spacing: ;
 }
 
 
@@ -37,7 +38,7 @@ h1{
 }
 
 .f_min{
-    color: tomato;
+    color: rgb(235, 100, 77);
 }
 .half_width h1{
     color: rgb(126, 121, 120);
@@ -55,9 +56,13 @@ h1{
 .half_width p{
     width: 80%;
     text-size-adjust:auto;
+    word-spacing: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
 }
 .half_width img{
     width: 100%;
+ 
 }
 .Hire_me{
     text-decoration: none;
@@ -85,6 +90,7 @@ h1{
       padding-left: 80px;
       
   }
+
   #latest{
       color: rgba(244, 96, 96, 1);
   }
@@ -161,4 +167,14 @@ h1{
 
 .icon img{
     height: 100%;
+}
+.half_width h2{
+    color: rgba(54, 57, 88, 1);
+}
+.social h5{
+    text-align: center;
+    color:rgba(54, 57, 88, 1) ;
+}
+.box h2{
+    color: rgba(54, 57, 88, 1);
 }
